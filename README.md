@@ -1,0 +1,3 @@
+Desarrollo de un proyecto en Django, con una app "academico" con diferentes modelos: estudiantes, profesores, cursos, inscripciones y perfil de estudiantes; estos modelos se relacionan entre sí a través de relaciones uno a uno, uno a muchos y/ó muchos a muchos.
+Además se realiza la conexión del proyecto a una base de datos en mySql workbench lo cual permite una organización eficiente de la base de datos y optimizan la interacción entre los datos dentro de la aplicación Django.
+Para probar la validez del modelo, se procede a crear en el shell objetos de las diferentes clases y operaciones con ellos (CRUD)
